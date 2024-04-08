@@ -12,7 +12,7 @@ using namespace std;
 	cout<<(a + b + c);
     return 0;
 }*/
-//2-)
+//2-)type of variables
 /*int main() {
 	int s;
 long ld;
